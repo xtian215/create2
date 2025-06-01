@@ -1,1 +1,2 @@
-console.log ('Dashboard Version 1');
+console.log ('Dashboard Version 2');
+console.log ('For changes');
